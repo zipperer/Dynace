@@ -1,7 +1,7 @@
 
 
 This example demonstrates making a socket connection between two
-processes.  It must be adjusted for your particular scenerio.
+processes.  It must be adjusted for your particular scenario.
 
 
 (To build see the readme file in the first example.)
